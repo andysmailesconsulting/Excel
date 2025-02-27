@@ -1,6 +1,4 @@
-Excel Projects
-
-Introduction:
+MS EXCEL
 
 Mastering Excel for data analysis, visualization, and automation.
 
